@@ -1,0 +1,11 @@
+body {
+	margin: 0;
+	overflow: hidden;
+    background-image: radial-gradient(#666, #333);
+}
+
+.low {
+    background: rgb(175, 104, 104);
+}    
+
+  
